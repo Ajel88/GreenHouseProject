@@ -45,7 +45,7 @@
         </div>
       </div>
 
-      <!-- Settings Page -->
+      <!-- Settings Page =-->
       <div v-if="showSettingsPage" class="settings-page">
         <h2>Settings</h2>
         <div class="settings-option">
